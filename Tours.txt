@@ -1,0 +1,50 @@
+2,Istanbul,8,80,5
+15,Delhi,8,180,5
+23,Shanghai,8,270,3
+27,Dhaka,9,220,3
+29,Sao Paulo,9,140,4
+32,Mexico City,9,130,7
+51,Cairo,9,50,7
+53,Beijing,9,70,9
+56,Mumbai,10,60,8
+62,Osaka,11,70,10
+62,Chongqing,12,290,9
+64,Karachi,12,220,10
+68,Tokyo,12,110,9
+72,Kinshasa,13,300,4
+75,Lagos,14,60,9
+77,Buenos Aires,14,100,3
+78,Kolkata,15,150,3
+78,Manila,15,50,8
+85,Tianjin,15,180,4
+88,Venice,16,220,8
+89,Rio de Janeiro,16,270,3
+99,Lahore,17,160,2
+105,Bangalore,17,210,6
+106,Shenzhen,18,160,10
+108,Moscow,18,100,4
+111,Chennai,19,110,5
+116,Bogota,19,60,10
+142,Paris,20,190,9
+146,Jakarta,20,260,6
+148,Lima,20,160,2
+148,Bangkok,22,200,6
+155,Hyderabad,22,260,6
+159,Seoul,23,140,3
+165,Nagoya,24,140,7
+177,London,24,120,5
+179,Chengdu,25,110,8
+182,Nanjing,25,150,7
+184,Tehran,26,270,3
+189,Tashkent,27,200,10
+192,Luanda,27,150,7
+196,Wuhan,27,70,10
+199,Xi-an Shaanxi,28,280,3
+208,Ahmedabad,28,70,9
+209,Kuala Lumpur,28,260,3
+219,New York City,29,290,2
+220,Hangzhou,29,220,4
+222,Berlin,30,140,9
+235,Suzhou,30,130,5
+239,Hong Kong,30,210,5
+248,Riyadh,30,270,4
