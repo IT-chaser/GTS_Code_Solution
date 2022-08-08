@@ -94,10 +94,11 @@ def simulate_tour():
                     mapping_list.append(map_dict)
                     # We append every map_dict to new mapping_list    
                     calls_list_copy.remove(call)
-        # Find out the tours where no suitable calls awailable
+        # Find out the tours where no suitable calls available
         if map_dict['capacity'] > 0 and map_dict['call_id'] == '[]':
             map_dict['call_id'] = '[NULL]'
             map_dict['calls'] = 'NULL'
+            map_dict['day'] = 'NULL'
             map_dict['status'] = 'AVAILABLE: NO_SUITABLE_CALLS'
             mapping_list.append(map_dict)                 
         travel_call = []
